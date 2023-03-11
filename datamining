@@ -1,8 +1,3 @@
-Keterangan variabel :
-1. kota : kabupaten/kota pendataan
-2. jumlah : jumlah posyandu
-3. posyandu_aktif : jumlah posyandu yang aktif
-
 kota,jumlah,posyandu_aktif
 Jakarta Pusat,491,367
 Jakarta Utara,645,625
