@@ -3,6 +3,23 @@ Keterangan variabel :
 2. jumlah : jumlah posyandu
 3. posyandu_aktif : jumlah posyandu yang aktif
 
+Keterangan :
+Data Jumlah Posyandu selama Pandemi Posyandu yang melaksanakan kegiatan baik secara tatap muka
+(buka dengan protokol kesehatan, kunjungan rumah) dan/atau secara daring (pelaporan gform, melalui whatsapp, zoom meeting, dll)
+
+Metadata :
+Terakhir Diperbarui : 17 Juni 2022
+Dibuat : 17 Juni 2022
+Sumber : Dinas Kesehatan Provinsi DKI Jakarta
+Frekuensi Penerbitan : 1 Tahun Sekali
+Tahun : 2020-2021
+Cakupan : Provinsi
+Penyajian : Provinsi
+Kontak : datin.dinkesdki@jakarta.go.id, 021-3853476
+Rujukan :
+Lisensi : Creative Commons Attribution
+
+SUMBER DATA:
 kota,jumlah,posyandu_aktif
 Jakarta Pusat,491,367
 Jakarta Utara,645,625
