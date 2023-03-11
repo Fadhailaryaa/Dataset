@@ -1,0 +1,12 @@
+Keterangan variabel :
+1. kota : kabupaten/kota pendataan
+2. jumlah : jumlah posyandu
+3. posyandu_aktif : jumlah posyandu yang aktif
+
+kota,jumlah,posyandu_aktif
+Jakarta Pusat,491,367
+Jakarta Utara,645,625
+Jakarta Barat,853,703
+Jakarta Selatan,1264,1064
+Jakarta Timur,1178,1128
+Kepulauan Seribu,37,34
